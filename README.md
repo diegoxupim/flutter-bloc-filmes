@@ -3,9 +3,9 @@
 Entendimento do funcionamento do Bloc em flutter, projeto com listagem de filmes usando api aberta themoviedb e exibindo os trillers com o plugin youtube_player_flutter 
 
 Referencias:
-*https://pub.dev/packages/youtube_player_flutter
-*https://developers.themoviedb.org/3
-*https://flutter.dev/docs/development/data-and-backend/state-mgmt/options
+**https://pub.dev/packages/youtube_player_flutter
+**https://developers.themoviedb.org/3
+**https://flutter.dev/docs/development/data-and-backend/state-mgmt/options
 
 ## Getting Started
 
